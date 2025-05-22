@@ -1,5 +1,5 @@
 <?php
-
+// test branch
 class Mail implements MailInterface {
 
     function sendMail(){
