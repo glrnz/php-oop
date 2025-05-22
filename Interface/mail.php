@@ -1,5 +1,6 @@
 <?php
-
+// test branch
+// test branch commit 2
 class Mail implements MailInterface {
 
     function sendMail(){
